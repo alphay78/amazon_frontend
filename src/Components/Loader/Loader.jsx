@@ -1,7 +1,7 @@
 import React from 'react'
 import { FadeLoader } from 'react-spinners'
 
-function Loder() {
+function Loader() {
   return (
     <div style={{
       display:"flex",
@@ -14,4 +14,4 @@ function Loder() {
   );
 }
 
-export default Loder
+export default Loader
